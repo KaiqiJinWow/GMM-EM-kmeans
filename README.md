@@ -1,10 +1,6 @@
 # GMM-EM
 # Report for GMM-EM 
 
-#### 金凯祺
-
-`这是AI培训班的的第一次编程作业，主要任务为编写一个高斯混合模型，来对数据进行二分。`
-
 `下面是任务说明：This is a binary classification task. Features used are 2-dimensional feature. You will use Gaussian Mixture Model to accomplish the task.`
 
 #### GMM的初始化
